@@ -1,2 +1,4 @@
-flask
-pylatex
+Flask>=3.0
+gunicorn>=21.2
+requests>=2.32
+flask-cors>=4.0
